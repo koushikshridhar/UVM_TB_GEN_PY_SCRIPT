@@ -1,0 +1,4 @@
+DUT_NAME,USB_CTRL,,,
+NUM_INTF,4,,,
+INTF,I2C,M,100,scl 
+INTF,UART,S,200,uart_clk
