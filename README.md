@@ -1,0 +1,1 @@
+# UVM_TB_GEN_PY_SCRIPT
