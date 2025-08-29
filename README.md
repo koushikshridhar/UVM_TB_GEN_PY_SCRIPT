@@ -90,4 +90,9 @@ verif/
 This project is provided "as is" without warranty.
 You are free to modify, distribute, and use it in your own projects.
 
+👤 Author: Koushik Shridhar  
+📅 Date: July 06, 2025  
+🔖 Version: 1.0.0
+
+
 
