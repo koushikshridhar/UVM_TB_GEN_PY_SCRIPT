@@ -1,6 +1,6 @@
 # UVM_TB_GEN_PY_SCRIPT
 
-A Python-based utility to auto-generate **UVM Testbench (TB) skeletons** in SystemVerilog from a simple CSV configuration file.  
+A Python-based utility to auto-generate **UVM Testbench (TB) skeletons** in UVM from a simple CSV configuration file.  
 This helps in bootstrapping UVM environments quickly with minimal manual setup.
 
 ---
